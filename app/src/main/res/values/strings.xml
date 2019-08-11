@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TubeABC</string>
+    <string name="views">Visualizações</string>
+    <string name="placeholder_title">Título do video</string>
+    <string name="placeholder_views">13951</string>
+    <string name="placeholder_date">12/02/2018</string>
+    <string name="event">Evento</string>
+    <string name="placeholder_text">This is a placeholder!</string>
+    <string name="speaker">Palestrante</string>
+    <string name="duration">Duração</string>
+    <string name="source">Fonte</string>
+
+
+</resources>
